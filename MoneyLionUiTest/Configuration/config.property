@@ -1,0 +1,14 @@
+                   ** urls to be triggered **
+                   
+MONEYLION_URL=https://www.moneylion.com
+
+
+
+                           **PATH**
+
+EXTENT_CONFIG_PATH=//test-output//extent-config.xml
+
+TEST_DATA_PATH=//TestData//TestDataMoneyLion.json
+
+
+

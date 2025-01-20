@@ -1,0 +1,9 @@
+{
+  "Testdata_Tc_01_verify_if_user_able_to_access_about_page_successfully":
+  {
+       "FigureCaptionNewYorkCiy":"NEW YORK CITY", 
+       "FigureCaptionSiouxFalls":"SIOUX FALLS", 
+       "FigureCaptionKaulaLumPur":"KUALA LUMPUR", 
+       "FigureCaptionAroundTheGlobe":"AROUND THE GLOBE"
+   }
+}
