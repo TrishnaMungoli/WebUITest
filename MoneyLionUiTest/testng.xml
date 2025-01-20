@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MultipleSuite">
+
+
+	<test name="MoneyLion WebAssignment First" preserve-order="true">
+		<parameter name="browser" value="Chrome"/>
+		<parameter name="environment" value="prod" />
+		<classes>
+			<class
+				name="com.test.moneylion.Tc_01_verify_if_user_able_to_access_about_page_successfully"/>
+		</classes>
+	</test>
+</suite>
+
+    
+    
+   
+ 
+
+    
+
+
+
+
+	
+
+
+ 
