@@ -10,7 +10,7 @@ Framework structure used:
 3.Page factory:For organizing code
 4.testng:To run code systematically 
 5.Extent reports:To generate reports
-6.Json and dataprovider:To make it data driven and used json to read data.
+6.Json and data provider:To make it data driven and used json to read data.
 
 
 To run the setup in local:
